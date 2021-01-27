@@ -1,0 +1,26 @@
+[1116/134701.200:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1116/154921.686:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\083413b4-1bfa-4f0b-884c-f7181509b911: The system cannot find the path specified. (0x3)
+[1116/165533.631:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\a0cde635-1177-42fb-a3b8-d944722caa6d: The system cannot find the path specified. (0x3)
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/073207.457:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:crash_report_database_win.cc(498)] failed to stat report
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\083413b4-1bfa-4f0b-884c-f7181509b911.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\c97a2f04-0ed3-43c7-aa89-a01c4ac32e44.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\97cad44e-7eb2-49d0-a868-64149ad2bc77.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\5dbcc617-9340-426f-b13f-e8bdb5a4328a.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\824930f6-4b60-45c9-a579-d88ead2adde6.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\7cf1b781-6495-4812-a289-065b8fcb58f6.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:filesystem_win.cc(116)] GetFileAttributes C:\Users\berni\AppData\Local\Google\Chrome\User Data\Crashpad\reports\a0cde635-1177-42fb-a3b8-d944722caa6d.dmp: The system cannot find the file specified. (0x2)
+[1117/074207.459:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1117/123600.068:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
